@@ -1,0 +1,4 @@
+halo, ini dari vim 
+semangat belajar vim nya
+semoga test besok dilancarkan
+aamiin
