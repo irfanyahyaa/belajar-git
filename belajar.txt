@@ -2,3 +2,10 @@ halo, ini editan dari nano
 selamat belajar linux
 semoga test besok dilancarkan 
 aamiin
+
+halo, ini dari branch master
+semangat terus
+pantang menyerah
+lancar sampai tahap akhir
+aamiin
+
