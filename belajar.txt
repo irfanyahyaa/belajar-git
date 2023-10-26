@@ -2,3 +2,7 @@ halo, ini editan dari nano
 selamat belajar linux
 semoga test besok dilancarkan 
 aamiin
+
+halo, sekarang lagi belajar git
+semangat, semoga dilancarkan sampai tahap akhir 
+aamiin
