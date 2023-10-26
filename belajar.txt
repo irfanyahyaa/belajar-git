@@ -3,8 +3,7 @@ selamat belajar linux
 semoga test besok dilancarkan 
 aamiin
 
-halo, ini dari branch irfan
-semangat belajar git merge nya
-semoga dilancarkan sampai tahap akhir 
-aamiin
+halo, ini dari branch master 
+semoga hari mu menyenangkan
+
 
