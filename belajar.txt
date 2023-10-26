@@ -3,13 +3,8 @@ selamat belajar linux
 semoga test besok dilancarkan 
 aamiin
 
-halo, sekarang lagi belajar git
-semangat, semoga dilancarkan sampai tahap akhir 
-aamiin
-
-halo, ini dari branch master
-semangat terus
-pantang menyerah
-lancar sampai tahap akhir
+halo, ini dari branch irfan
+semangat belajar git merge nya
+semoga dilancarkan sampai tahap akhir 
 aamiin
 
