@@ -11,3 +11,4 @@ lalalala
 
 perubahan setelah merge
 
+belajar conflict di beda file
