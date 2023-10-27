@@ -14,3 +14,5 @@ perubahan setelah merge
 belajar conflict di beda file
 
 ada konflik, gagal merge buat yang kedua
+
+kita coba lagi langsung pull
