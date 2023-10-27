@@ -7,3 +7,5 @@ halo, ini dari github
 saat ini sedang belajar git fetch
 semoga dilancarkan dan berhasil test nya
 aamiin
+
+lalala
